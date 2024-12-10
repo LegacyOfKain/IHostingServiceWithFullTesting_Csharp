@@ -1,6 +1,6 @@
 # Timed Hosted Service Application
 
-This repository contains a C# application that implements a timed background service using .NET's generic host and IHostService. The application is designed to periodically print the current time using a service that runs in the background. The solution is fully tested, achieving 100% code coverage.
+This repository contains a C# application that implements a timed background service using .NET's generic host and **IHostedService**. The application is designed to periodically print the current time using a service that runs in the background. The solution is fully tested, achieving 100% code coverage.
 
 ## Features
 
